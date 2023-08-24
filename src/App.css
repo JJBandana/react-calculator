@@ -12,6 +12,7 @@ body {
 }
 
 .calculator-grid {
+  height: 100vh;
   margin: auto;
   display: grid;
   justify-content: center;
